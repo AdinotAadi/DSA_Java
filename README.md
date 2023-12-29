@@ -1,5 +1,5 @@
 # DSA_Java
-A repository of all the codes that I've written while learning Data Structures and Algorithms in Java.
+A repository of all the codes that I've written while learning Data Structures and Algorithms in Java. The C++ version for the same can be found (here)[https://github.com/AdinotAadi/DSA_CPP].
 
 ## Resources:
 In the process of learning, I've used the following resources:
