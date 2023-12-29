@@ -5,14 +5,11 @@ A repository of all the codes that I've written while learning Data Structures a
 In the process of learning, I've used the following resources:
 1. **Video(s)**
     1. **Data Structures:**
-        1. Basics of Java: [Java Programming Tutorial for Beginners](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas) by Telusko on YouTube.
-        2. OOPs in Java: [Java OOPs Concepts](https://www.youtube.com/watch?v=NU_1StN5Tkk) by CodeAcademy on YouTube.
-        3. Basics of Data Structures: [Java Tutorial for Beginners: Learn Java & OOPs Basics in 10 Hours](https://www.youtube.com/watch?v=WPvGqX-TXP0) by Durga Software Solutions on YouTube.
+        1. Basics of Java: [Java Tutorial for Beginners](https://www.youtube.com/watch?v=BGTx91t8q50&t=2167s) by Telusko on YouTube.
+        2. OOPs in Java: [Java OOPs Concepts in just 60 minutes](https://www.youtube.com/watch?v=a199KZGMNxk&t=6s&pp=ygUJamF2YSBvb3Bz) by Anuj Bhaiya on YouTube.
     2. **Algorithms:**
-        1. All of Algorithms: [Data Structures and Algorithms Tutorial](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) by Abdul Bari on YouTube.
-        2. Topic-wise Playlists:
-            1. [Java Programming: Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p) by CodeWithChris on YouTube.
-            2. [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://www.udemy.com/course/dynamic-programming-for-interviews/) on Udemy.
+        1. [Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) by Abdul Bari on YouTube.
+        2. [DSA-One Course - The Complete Data Structures and Algorithms Course](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p) by Anuj Bhaiya on YouTube.
 
 2. **Book(s)**
     1. [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) by Gayle Laakmann McDowell.
