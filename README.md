@@ -20,7 +20,7 @@ In the process of learning, I've used the following resources:
 ### Data Structures:
 - Linked Lists
     - [Singly Linked Lists](./src/linkedLists/SLL.java)
-    - Doubly Linked Lists
+    - [Doubly Linked Lists](./src/linkedLists/DLL.java)
     - Circular Linked Lists
 - Stacks
 - Queues
