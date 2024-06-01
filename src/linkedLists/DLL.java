@@ -20,6 +20,7 @@ public class DLL {
     }
 
     private static DLLNode head = null;
+    private static DLLNode tail = null;
 
     public void insertBegin(int val) {
         System.out.println("Inserting at the beginning.");
@@ -28,7 +29,47 @@ public class DLL {
             newNode.next = head;
             head.prev = newNode;
         }
+        if(head == null) {
+            tail = newNode;
+        }
         head = newNode;
+    }
+
+    public void insertEnd(int val) {
+        if (head == null) {
+            insertBegin(val);
+        } else {
+            DLLNode newNode = new DLLNode(val);
+            tail.next = newNode;
+            newNode.prev = tail;
+            tail = newNode;
+        }
+    }
+
+    public void dropHead() {
+        if (head == null) {
+            System.out.println("The linked list is empty.");
+            return;
+        }
+        head = head.next;
+        if (head != null) {
+            head.prev = null;
+        } else {
+            tail = null;
+        }
+    }
+
+    public void dropTail() {
+        if (tail == null) {
+            System.out.println("The linked list is empty.");
+            return;
+        }
+        tail = tail.prev;
+        if (tail != null) {
+            tail.next = null;
+        } else {
+            head = null;
+        }
     }
 
     public void display() {
@@ -47,6 +88,14 @@ public class DLL {
         ll.insertBegin(10);
         ll.insertBegin(20);
         ll.insertBegin(30);
+        ll.display();
+        ll.insertEnd(100);
+        ll.insertEnd(200);
+        ll.insertEnd(300);
+        ll.display();
+        ll.dropHead();
+        ll.display();
+        ll.dropTail();
         ll.display();
     }
 }
