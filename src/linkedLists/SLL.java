@@ -112,6 +112,18 @@ public class SLL {
         System.out.println(" X ");
     }
 
+    public void reverseLL() {
+        System.out.println("Reversing the Linked List.");
+        Node current = head, previous = null, next = null;
+        while(current != null) {
+            next = current.next;
+            current.next = previous;
+            previous = current;
+            current = next;
+        }
+        head = previous;
+    }
+
     public static void main(String[] args) {
         SLL ll = new SLL();
         ll.insertBegin(10);
@@ -121,6 +133,10 @@ public class SLL {
         ll.insertEnd(100);
         ll.insertEnd(200);
         ll.insertEnd(300);
+        ll.display();
+        ll.reverseLL();
+        ll.display();
+        ll.reverseLL();
         ll.display();
         ll.dropHead();
         ll.display();
