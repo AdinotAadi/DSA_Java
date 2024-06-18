@@ -36,3 +36,9 @@ public class MergeSort {
         System.out.println("Array after sorting: " + Arrays.toString(mergeSort(arr)) + ".");
     }
 }
+
+/*
+* Output:
+    * Array before sorting: [1, 500, 3, 20, 55, 33, 11].
+    * Array after sorting: [1, 3, 11, 20, 33, 55, 500].
+ */
