@@ -34,15 +34,15 @@ In the process of learning, I've used the following resources:
 ### Algorithms:
 - Sorting Techniques
     - Selection Sort
-    - Bubble Sort
+    - [Bubble Sort](src/Algorithms/Sorting/BubbleSort/BubbleSort.java)
     - Insertion Sort
-    - Merge Sort
+    - [Merge Sort](src/Algorithms/Sorting/MergeSort/MergeSort.java)
     - Quick Sort
-    - Recursive Bubble Sort
+    - [Recursive Bubble Sort](src/Algorithms/Sorting/BubbleSort/BubbleSort.java)
     - Recursive Insertion Sort
 - Searching Techniques
-    - Linear Search
-    - Binary Search
+    - [Linear Search](src/Algorithms/Searching/LinearSearch/LinearSearch.java)
+    - [Binary Search](src/Algorithms/Searching/BinarySearch/BinarySearch.java)
 - Recursion
 - Bit Manipulation
 - Sliding Windows and Two Pointers
