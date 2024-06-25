@@ -13,7 +13,7 @@ public class CountSubsetsWithSumK {
         int l = helper(arr, n, k, currSum, i + 1);
         // Take i-th element:
         int r = helper(arr, n, k, currSum + arr[i], i + 1);
-        return (int) ((int) (l + r) % (1e9 + 7));
+        return (int) ((l + r) % (1e9 + 7));
     }
 
     private static int countPerfectSum(int[] arr, int n, int k) {
@@ -30,7 +30,7 @@ public class CountSubsetsWithSumK {
         }
         k = sc.nextInt();
         int count = countPerfectSum(arr, n, k);
-        System.out.println(count);;
+        System.out.println(count);
         sc.close();
     }
 }
