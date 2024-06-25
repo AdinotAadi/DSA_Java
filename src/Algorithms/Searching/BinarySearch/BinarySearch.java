@@ -22,6 +22,7 @@ public class BinarySearch {
             arr[i] = sc.nextInt();
         }
         k = sc.nextInt();
+        Arrays.sort(arr);
         System.out.println(binarySearch(arr, k, 0, n - 1));
         sc.close();
     }
