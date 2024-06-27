@@ -52,7 +52,9 @@ In the process of learning, I've used the following resources:
     - [Generate Binary Strings with Number of Ones Greater Than Zeroes](./src/Algorithms/Recursion/NumberOfOnesGreaterThanZeroes/GenerateBinaryStrings.java)
     - [Permutations With Case Change](./src/Algorithms/Recursion/PermutationWithCaseChange/PermutationsWithCaseChange.java)
     - [Permutations With Spaces](./src/Algorithms/Recursion/PermutationWithSpaces/PermutationsWithSpaces.java)
-    - [Subset Sum](./src/Algorithms/Recursion/SubsetSum/SubsetWithSumK.java)
+    - [Generate all Permutations of an Array](./src/Algorithms/Recursion/AllPermutationsOfArray/GenerateAllPermutationsOfGivenArray.java)
+    - Problems on Subset Sum:
+        - [Subset Sum](./src/Algorithms/Recursion/SubsetSum/SubsetWithSumK.java)
         - [Check Existence of Subset With Sum K](./src/Algorithms/Recursion/SubsetSum/CheckExistanceOfSubsetWithSumK.java)
         - [Count Subsets With Sum K](./src/Algorithms/Recursion/SubsetSum/CountSubsetsWithSumK.java)
     - [Tower of Hanoi](./src/Algorithms/Recursion/TowerOfHanoi/towerOfHanoi.java)
