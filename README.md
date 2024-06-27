@@ -19,9 +19,9 @@ In the process of learning, I've used the following resources:
 ## Topics Covered:
 ### Data Structures:
 - Linked Lists
-    - [Singly Linked Lists](./src/linkedLists/SLL.java)
-    - [Doubly Linked Lists](./src/linkedLists/DLL.java)
-    - Circular Linked Lists
+    - [Singly Linked Lists](./src/Data%20Structures/linkedLists/SLL.java)
+    - [Doubly Linked Lists](./src/Data%20Structures/linkedLists/DLL.java)
+    - [Circular Linked Lists](./src/Data%20Structures/linkedLists/CSLL.java)
 - Stacks
 - Queues
 - Trees
@@ -34,21 +34,31 @@ In the process of learning, I've used the following resources:
 ### Algorithms:
 - Sorting Techniques
     - Selection Sort
-    - [Bubble Sort](src/Algorithms/Sorting/BubbleSort/BubbleSort.java)
+    - [Bubble Sort](./src/Algorithms/Sorting/BubbleSort/BubbleSort.java)
     - Insertion Sort
-    - [Merge Sort](src/Algorithms/Sorting/MergeSort/MergeSort.java)
+    - [Merge Sort](./src/Algorithms/Sorting/MergeSort/MergeSort.java)
     - Quick Sort
-    - [Recursive Bubble Sort](src/Algorithms/Sorting/BubbleSort/BubbleSort.java)
+    - Recursive Bubble Sort
     - Recursive Insertion Sort
 - Searching Techniques
-    - [Linear Search](src/Algorithms/Searching/LinearSearch/LinearSearch.java)
-    - [Binary Search](src/Algorithms/Searching/BinarySearch/BinarySearch.java)
+    - [Linear Search](./src/Algorithms/Searching/LinearSearch/LinearSearch.java)
+    - [Binary Search](./src/Algorithms/Searching/BinarySearch/BinarySearch.java)
 - Recursion
+    - [Generate Binary Strings Without Consecutive Ones](./src/Algorithms/Recursion/BinaryStringsWithoutConsecutiveOnes/GenerateBinaryStrings.java)
+    - [Generate Balanced Parenthesis](./src/Algorithms/Recursion/GenerateBalancedParanthesis/GenerateParanthesis.java)
+    - [Power Set](./src/Algorithms/Recursion/GenerateSubsets/PowerSet.java)
+    - [Kth Grammar](./src/Algorithms/Recursion/KthGrammar/kthGrammar.java)
+    - [Letters Case Change](./src/Algorithms/Recursion/LetterCaseChange/LettersCaseChange.java)
+    - [Generate Binary Strings with Number of Ones Greater Than Zeroes](./src/Algorithms/Recursion/NumberOfOnesGreaterThanZeroes/GenerateBinaryStrings.java)
+    - [Permutations With Case Change](./src/Algorithms/Recursion/PermutationWithCaseChange/PermutationsWithCaseChange.java)
+    - [Permutations With Spaces](./src/Algorithms/Recursion/PermutationWithSpaces/PermutationsWithSpaces.java)
+    - [Subset Sum](./src/Algorithms/Recursion/SubsetSum/SubsetWithSumK.java)
+        - [Check Existence of Subset With Sum K](./src/Algorithms/Recursion/SubsetSum/CheckExistanceOfSubsetWithSumK.java)
+        - [Count Subsets With Sum K](./src/Algorithms/Recursion/SubsetSum/CountSubsetsWithSumK.java)
+    - [Tower of Hanoi](./src/Algorithms/Recursion/TowerOfHanoi/towerOfHanoi.java)
 - Bit Manipulation
 - Sliding Windows and Two Pointers
 - Greedy Algorithms
 - Graph Traversal Algorithms
 - Dynamic Programming
 - String Manipulation Algorithms
-
----
