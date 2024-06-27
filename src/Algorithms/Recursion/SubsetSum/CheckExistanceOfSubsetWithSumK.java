@@ -28,7 +28,7 @@ public class CheckExistanceOfSubsetWithSumK {
         }
         k = sc.nextInt();
         boolean check = checkSubsetSum(arr, n, k);
-        System.out.println(check);;
+        System.out.println(check);
         sc.close();
     }
 }
