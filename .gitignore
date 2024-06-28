@@ -17,6 +17,7 @@ bin/
 
 ### IntelliJ Idea ###
 .idea
+.idea/
 
 ### NetBeans ###
 /nbproject/private/
